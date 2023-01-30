@@ -1,0 +1,149 @@
+﻿<Window x:Class="WpfDay01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfDay01"
+       
+        Title="MainWindow" Height="450" Width="800">
+    <!--#region StackPanel -->
+    <!--<StackPanel Orientation="Horizontal">
+        <Button Click="btn1_Click" Margin="5,10,10,5"  x:Name="btn1"  Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"  x:Name="btn2"  Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+    </StackPanel>-->
+    <!--#endregion-->
+
+    <!--#region WrapPanel -->
+    <!--<WrapPanel Orientation="Horizontal">
+        <Button Click="btn1_Click" Margin="5,10,10,5"  x:Name="btn1"  Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"  x:Name="btn2"  Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+    </WrapPanel>-->
+    <!--#endregion-->
+
+    <!--#region DockPanel -->
+    <!--<DockPanel LastChildFill="False" >
+        <Button DockPanel.Dock="Bottom" Click="btn1_Click" Margin="5,10,10,5"  x:Name="btn1"  Height="30" Width="70" Background="Red">
+            Click Me 1
+        </Button>
+        <Button Click="btn1_Click" DockPanel.Dock="Top" Margin="5"  x:Name="btn2"  Height="30" Width="70" Background="Red">
+            Click Me 2
+        </Button>
+        <Button Click="btn1_Click" DockPanel.Dock="Right" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me 3
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+    </DockPanel>-->
+    <!--#endregion-->
+
+    <!--#region Grid -->
+    <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.RowSpan="2" DockPanel.Dock="Bottom" Click="btn1_Click" Margin="5,10,10,5"  x:Name="btn1"  Height="30" Width="70" Background="Red">
+            Click Me 1
+        </Button>
+        <Button Grid.Column="1" Grid.Row="1" DockPanel.Dock="Bottom" Click="btn1_Click" Margin="5,10,10,5"   Height="130" Width="70" Background="Red">
+            Click Me 2
+        </Button>
+        <Button Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="2" DockPanel.Dock="Bottom" Click="btn1_Click" Margin="5,10,10,5"   Height="130" Width="170" Background="Red">
+            Click Me 2
+        </Button>
+    </Grid>-->
+    <!--#endregion-->
+
+    <!--#region UniformGrid -->
+    <!--<UniformGrid>
+        <Button Click="btn1_Click" Margin="5,10,10,5"  x:Name="btn1"  Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"  x:Name="btn2"  Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5"    Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+        <Button Click="btn1_Click" Margin="5,10,10,5"   Height="30" Width="70" Background="Red">
+            Click Me
+        </Button>
+       
+    </UniformGrid>-->
+    <!--#endregion-->
+    <!--#region Content Control -->
+    <!--<Button Click="btn1_Click" Margin="5,10,10,5"   Height="130" Width="170" Background="Red">
+        <StackPanel>
+            <Label>Click</Label>
+            <Label>Enter</Label>
+        </StackPanel> 
+    </Button>-->
+    <!--#endregion-->
+
+    <!--#region Headered Content Control -->
+
+    <!--<GroupBox Width="200"
+              Height="200"
+              Header="Login">
+        <StackPanel>
+            
+            <RadioButton>Option1</RadioButton>
+            <RadioButton>Option2</RadioButton>
+            <RadioButton>Option3</RadioButton>
+        
+        </StackPanel>
+    </GroupBox>-->
+
+    <!--<TabControl Margin="5" TabStripPlacement="Top">        <TabItem Header="Tab One">            <StackPanel Margin="3">                <CheckBox Margin="3">Setting One</CheckBox>                <CheckBox Margin="3">Setting Two</CheckBox>                <CheckBox Margin="3">Setting Three</CheckBox>            </StackPanel>        </TabItem>        <TabItem Header="Tab Two">Hello…</TabItem>    </TabControl>-->    <!--<Expander ExpandDirection="Right"  Header="Expander1">        <StackPanel Margin="3">            <CheckBox Margin="3">Setting One</CheckBox>            <CheckBox Margin="3">Setting Two</CheckBox>            <CheckBox Margin="3">Setting Three</CheckBox>        </StackPanel>    </Expander>-->    <PasswordBox IsEnabled="True" Height="30" Width="100"></PasswordBox>
+
+
+    <!--#endregion-->
+
+
+</Window>

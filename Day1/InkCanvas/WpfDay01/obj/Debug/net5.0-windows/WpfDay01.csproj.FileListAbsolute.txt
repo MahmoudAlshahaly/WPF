@@ -1,0 +1,47 @@
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.exe
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.deps.json
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.runtimeconfig.json
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.runtimeconfig.dev.json
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.dll
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\ref\WpfDay01.dll
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.pdb
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.csproj.AssemblyReference.cache
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\App.g.cs
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01_MarkupCompile.cache
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01_MarkupCompile.lref
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\MainWindow.baml
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.g.resources
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.AssemblyInfoInputs.cache
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.AssemblyInfo.cs
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.csproj.CoreCompileInputs.cache
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.dll
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\ref\WpfDay01.dll
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.pdb
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.genruntimeconfig.cache
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\Paint.g.cs
+D:\ITI\Intake43\Menofia_9Month\WPF\Day1\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\Paint.baml
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\Paint.g.cs
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01_MarkupCompile.cache
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01_MarkupCompile.lref
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.exe
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.deps.json
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.runtimeconfig.json
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.runtimeconfig.dev.json
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.dll
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\ref\WpfDay01.dll
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\bin\Debug\net5.0-windows\WpfDay01.pdb
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\Paint.baml
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.g.resources
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.AssemblyInfoInputs.cache
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.AssemblyInfo.cs
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.dll
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\ref\WpfDay01.dll
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.pdb
+C:\Users\Eng-Mahmoud Ahmed\Downloads\WpfDay01-20230116T122828Z-001\WpfDay01\WpfDay01\obj\Debug\net5.0-windows\WpfDay01.genruntimeconfig.cache
